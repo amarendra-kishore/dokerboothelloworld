@@ -1,3 +1,4 @@
+# Dockerfile
 # Alpine Linux with OpenJDK JRE
 FROM openjdk:8-jre-alpine
 # copy WAR into image
